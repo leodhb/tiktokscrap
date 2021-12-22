@@ -16,3 +16,6 @@ Open a tiktok profile on your web browser. Depending of the number os posts you 
 
 Now, you can click on the right button to see a 'Raspar dados' button in the context menu. Just click on it, tell the number of posts you need to scrap and download the generated CSV 
 
+![image](https://user-images.githubusercontent.com/24739860/147118374-5bc23e61-a4fa-45f6-8737-acb41f419191.png)
+
+
