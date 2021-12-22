@@ -1,0 +1,18 @@
+{
+	"name": "FLOCKS - Raspagem de dados TikTok",
+	"description": "Extensão que efetua a raspagem dos dados do usuário do tiktok",
+	"version": "1.0",
+	"manifest_version": 2,
+	"permissions": ["contextMenus", "activeTab"],
+
+	"icons": {
+		"16": "icon16.png", 
+		"32": "icon32.png",
+		"64": "icon32.png",
+		"128": "icon32.png"
+	},
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	}
+}
