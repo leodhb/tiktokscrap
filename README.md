@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/24739860/147117092-869b9d38-70f7-448d-98d0-6caea904e864.png)
 
 ## How to run it
-Open a tiktok profile on your web browser. Depending of the number os posts you need to get data, you need to scroll down the page in order to load more posts as you need
+Open a tiktok profile on your web browser. Depending of the number os posts you need to get data, you need to scroll down the page in order to load more posts in the DOM
 
 Now, you can click on the right button to see a 'Raspar dados' button in the context menu. Just click on it, tell the number of posts you need to scrap and download the generated CSV 
 
